@@ -1,0 +1,12 @@
+[
+        {"id":1,"pname":"A","price":2345,"quantity":4,"images":"images/1.jpg"},
+        {"id":2,"pname":"B","price":234,"quantity":5,"images":"images/2.jpg"},
+        {"id":3,"pname":"C","price":543,"quantity":3,"images":"images/3.jpg"},
+        {"id":4,"pname":"D","price":654,"quantity":1,"images":"images/4.jpg"},
+        {"id":5,"pname":"E ","price":645,"quantity":4,"images":"images/5.jpg"},
+        {"id":6,"pname":"F","price":278,"quantity":7,"images":"images/6.jpg"},
+        {"id":7,"pname":"G","price":987,"quantity":4,"images":"images/7.jpg"},
+        {"id":8,"pname":"H","price":879,"quantity":9,"images":"images/8.jpg"}
+]
+   
+   
